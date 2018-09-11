@@ -1,7 +1,7 @@
 # Installation
 
 ```
-git clone XXX
+git clone https://github.com/Sajam/toggl-cli.git
 chmod +x toggl-cli.py
 sudo ln -s $(pwd)/toggl-cli.py /usr/local/bin/tcli
 ```
